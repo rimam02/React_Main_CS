@@ -68,7 +68,19 @@ Stores and displays previously generated tokens for analysis.
 
 ## Screenshots
 
-Screenshots will be added here.
+### Initial Interface
+<img width="1470" height="801" alt="Screenshot 2026-06-12 at 12 49 23 AM" src="https://github.com/user-attachments/assets/4fb7a0b3-3596-4f28-9214-f2e9cd6e3145" />
+
+
+### Token Generation and Decoding
+<img width="1470" height="801" alt="Screenshot 2026-06-12 at 12 49 59 AM" src="https://github.com/user-attachments/assets/05af6027-ee31-4fbf-9074-c862fe4cb710" />
+
+### Token Verification
+<img width="1470" height="801" alt="Screenshot 2026-06-12 at 12 50 38 AM" src="https://github.com/user-attachments/assets/d54580ff-8c87-4ead-8278-2f8f1e78efb4" />
+
+
+### alg:none Attack Simulation
+<img width="1470" height="801" alt="Screenshot 2026-06-12 at 12 51 20 AM" src="https://github.com/user-attachments/assets/24a51e93-82fe-401f-b969-288820613e72" />
 
 ---
 
