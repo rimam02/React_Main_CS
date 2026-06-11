@@ -1,5 +1,13 @@
 # JWT Security Laboratory
 
+## Live Demo
+(Deployed Link)
+https://react-main-cs.vercel.app/
+
+## GitHub Repository
+(GitHub Repository Link)
+https://github.com/rimam02/React_Main_CS.git
+
 ## Project Description
 
 JWT Security Laboratory is a React.js-based educational tool that demonstrates the working of JSON Web Tokens (JWT). The application allows users to generate tokens, decode token contents, verify token integrity, simulate security attacks, and maintain a history of generated tokens.
