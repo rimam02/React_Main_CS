@@ -123,24 +123,24 @@ http://localhost:5173
 
 
 - Home Page
-  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/42c8f901-c557-4bc8-9e3c-9df8774c9cb6" />
+<img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/42c8f901-c557-4bc8-9e3c-9df8774c9cb6" />
 
 
 
 - JWT Generator
-  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/8e3332c6-51a5-4d02-9d37-df331f9a0bcb" />
+<img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/8e3332c6-51a5-4d02-9d37-df331f9a0bcb" />
 
 
   
 
 - JWT Decoder & Signature Verification
-  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/9b708939-c7d4-4f8f-a7f2-2f9d0bd4e572" />
+<img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/9b708939-c7d4-4f8f-a7f2-2f9d0bd4e572" />
 
 
   
 
 - Attack Simulator
-  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/245148b3-7dd3-4b43-aa7d-d3becbd4ce7a" />
+<img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/245148b3-7dd3-4b43-aa7d-d3becbd4ce7a" />
 
 ---
 
