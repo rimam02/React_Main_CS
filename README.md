@@ -17,8 +17,6 @@ This project provides a hands-on learning environment where users can:
 - Store generated token history.
 - Learn JWT security best practices.
 
-> **Note:** This is a frontend-only educational project. In production applications, JWT signing and verification should always be handled securely on the backend.
-
 ---
 
 ## ✨ Features
@@ -126,12 +124,16 @@ http://localhost:5173
 Include screenshots of:
 
 - Home Page
-- JWT Generator
-- JWT Decoder
-- Signature Verification
-- Attack Simulator
+  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/42c8f901-c557-4bc8-9e3c-9df8774c9cb6" />
 
-*(You can upload screenshots later if needed.)*
+- JWT Generator
+  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/8e3332c6-51a5-4d02-9d37-df331f9a0bcb" />
+
+- JWT Decoder & Signature Verification
+  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/9b708939-c7d4-4f8f-a7f2-2f9d0bd4e572" />
+
+- Attack Simulator
+  <img width="418" height="235" alt="image" src="https://github.com/user-attachments/assets/245148b3-7dd3-4b43-aa7d-d3becbd4ce7a" />
 
 ---
 
