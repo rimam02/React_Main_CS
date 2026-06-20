@@ -90,7 +90,7 @@ Make sure you have installed:
 Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/rimam02/React_Main_CS.git
 ```
 
 Go to the project folder
