@@ -152,14 +152,6 @@ This project helps users understand:
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is developed **only for educational purposes**.
-
-JWT signing and verification are demonstrated on the frontend to help students understand JWT concepts. In real-world applications, sensitive operations should always be performed on a secure backend server.
-
----
-
 ## 🌐 Live Demo
 
 👉 **Live Project**
@@ -196,9 +188,3 @@ JWT (JSON Web Token) Security Laboratory
 - jwt-decode Documentation
 - MDN Web Docs
 - JWT.io Documentation
-
----
-
-## 📄 License
-
-This project is intended for educational and academic purposes only.
